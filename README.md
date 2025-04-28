@@ -2,7 +2,7 @@
 
 ## About
 
-The dDesign retreat **brings together academics and industry professionals** from  all over the world who are experts in the field of design for human-robot interaction (**design for hri**) to engage in 2 days of hands-on interactive activities that will explore how to shape the future of design for hri of a **5-10 years roadmap**.
+The design retreat **brings together academics and industry professionals** from  all over the world who are experts in the field of design for human-robot interaction (**design for hri**) to engage in 2 days of hands-on interactive activities that will explore how to shape the future of design for hri of a **5-10 years roadmap**.
 
 ---
 
