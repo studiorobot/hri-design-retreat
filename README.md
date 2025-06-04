@@ -17,7 +17,7 @@ The design retreat **brings together academics and industry professionals** from
 
 - **Aleena Qaiser** — University of Michigan, US
 - **Grace Pan** — University of Michigan, US
-- **Guan-Ling Chen** — University of Michigan, US
+- **Guan-Ling Chen** — Purdue University, US
 
 ---
 
