@@ -56,6 +56,19 @@ Following the retreat, we will make available:
 
 ---
 
+## Copyright and Attribution
+
+### Attribution
+When referencing or building upon the materials from this Design Retreat in Human-Robot Interaction, please use the following citation:
+P Alves-Oliveira, AK Ostrowski, A Qaiser, G Pan, GL Chen. (2025).
+Design Retreat in Human-Robot Interaction.
+National Science Foundation Award #24-PAF08983.
+
+### Branding Usage
+When using branding materials from the `/branding` folder, always provide proper attribution as specified above.
+
+---
+
 ## Funding
 
 The Design Retreat is funded by the **National Science Foundation (NSF)** through Award #24-PAF08983:  
