@@ -59,7 +59,7 @@ Following the retreat, we will make available:
 ## Copyright and Attribution
 
 ### Attribution
-When referencing or building upon the materials from this Design Retreat in Human-Robot Interaction, please use the following citation:
+When referencing the materials from this Design Retreat in Human-Robot Interaction, please use the following citation:
 ```
 P Alves-Oliveira, AK Ostrowski, A Qaiser, G Pan, GL Chen. (2025).
 Design Retreat in Human-Robot Interaction.
